@@ -62,9 +62,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(25, 24);
+            this.button1.Location = new System.Drawing.Point(27, 27);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(79, 21);
             this.button1.TabIndex = 0;
             this.button1.Text = "Atras";
             this.button1.UseVisualStyleBackColor = true;

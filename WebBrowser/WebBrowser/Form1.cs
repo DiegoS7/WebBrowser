@@ -20,6 +20,7 @@ namespace WebBrowser
         private void Form1_Load(object sender, EventArgs e)
         {
             webBrowser1.Navigate("www.google.com");
+            textBox1.Text = "www.google.com";
         }
     }
 }
